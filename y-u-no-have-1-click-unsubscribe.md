@@ -7,6 +7,7 @@ I just wanted to let you know that if I hit unsubscribe and get a login form or 
 **This email falls into that category and was reported as SPAM.**
 
 Below are some links to best practices. Please keep usability and a good customer experience in mind, rather than the letter of the law to keep the subscriber counts high.
+
 - http://www.campaignmonitor.com/blog/post/3266/simple-one-click-unsubscribe-process/
 - http://business.ftc.gov/documents/bus61-can-spam-act-compliance-guide-business
 
